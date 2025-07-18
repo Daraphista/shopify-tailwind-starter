@@ -8,7 +8,7 @@ yarn-error.log*
 # Build output
 dist/
 build/
-output.css
+tailwind.output.css
 # assets/theme.css # if you're compiling Tailwind into this
 # assets/theme.js  # if bundling JS
 
