@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "concurrently \"shopify theme dev -e development\" \"npx @tailwindcss/cli -i assets/tailwind.input.css -o assets/tailwind.output.css\""
+    "dev": "concurrently \"shopify theme dev -e development\" \"npx @tailwindcss/cli -i assets/tailwind.input.css -o assets/tailwind.output.css --watch\""
   },
   "keywords": [],
   "author": "",
